@@ -3,4 +3,4 @@
 #Learning git!!
 
 ## Basic Commands:
-git clone - To clone a repository from github
+git clone - To clone a repository from GitHub
