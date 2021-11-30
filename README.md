@@ -1,3 +1,3 @@
-# Day 0 On git
+# Day 0 on Git
 
-Learning git!!
+#Learning git!!
